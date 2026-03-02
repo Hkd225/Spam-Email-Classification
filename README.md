@@ -1,3 +1,14 @@
+Tentu, Auffa! Proyek ini sangat solid untuk portofolio Machine Learning kamu. Struktur yang rapi akan membuatnya terlihat jauh lebih profesional bagi *recruiter* maupun akademisi yang melihatnya.
+
+Pertama, ini adalah deskripsi satu baris yang setara dengan proyek Sentiment Analysis kamu sebelumnya:
+
+**"Spam Email Classification and Machine Learning Model Benchmarking using Spambase Dataset (Ensemble Methods, SVM, & Neural Networks) - Project by Muhammad Auffa Hakim Aditya"**
+
+---
+
+Berikut adalah format teks yang sudah dirapikan menggunakan standar Markdown. Kamu bisa langsung menyalinnya ke dalam file `README.md` atau `deskripsi.txt` di *repository* GitHub kamu:
+
+```markdown
 # Spam Email Classification & Machine Learning Model Benchmarking
 
 **By Muhammad Auffa Hakim Aditya**
@@ -66,3 +77,23 @@ Dataset Download → Data Exploration → Train-Test Split → Feature Scaling �
    ```bash
    git clone [https://github.com/YOUR_USERNAME/spam-email-classification.git](https://github.com/YOUR_USERNAME/spam-email-classification.git)
    cd spam-email-classification
+
+```
+
+2. **Install required dependencies:**
+```bash
+pip install -r requirements.txt
+
+```
+
+
+3. **Run the Notebook/Script:**
+Execute the main Python script or open the Jupyter Notebook to start the training and benchmarking process.
+
+*Main libraries used: `pandas`, `scikit-learn`, `xgboost`, `kagglehub`, `joblib*`
+
+## 🏷️ Keywords
+
+Supervised Learning | Spam Detection Systems | Model Benchmarking | Ensemble Learning | Classification Optimization | Machine Learning Deployment | Python
+
+```
